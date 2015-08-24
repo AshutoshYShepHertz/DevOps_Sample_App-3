@@ -50,7 +50,7 @@
 	<!------------------------------------Header Closed------------------------------------------->
 	<div class="App42PaaS_body_wrapper">
 		<div class="App42PaaS_body">
-			<div class="App42PaaS_body_inner">
+			<div class="App42PaaS_body_inner textcol">
 				
 				<div class="form_wrapper">
 					<form method="post" action="save">
